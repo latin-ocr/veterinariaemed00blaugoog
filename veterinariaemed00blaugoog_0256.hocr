@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterinariaemed00blaugoog_0256.png"; bbox 0 0 3692 5325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 4856 272 5277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 4856 272 5277">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 4856 269 4927; baseline 0.007 -22"><span class='ocrx_word' id='word_1_1' title='bbox 0 4869 8 4900; x_wconf 70' lang='grc' dir='ltr'><strong>ὲ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 22 4856 269 4927; x_wconf 66' lang='lat' dir='ltr'>alia‚quaeanimene1eae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 4926 269 4995; baseline -0.004 -20"><span class='ocrx_word' id='word_1_3' title='bbox 0 4926 269 4995; x_wconf 65' lang='lat' dir='ltr'>,ambusta,desquimata‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 13 4995 270 5067; baseline 0.004 -21"><span class='ocrx_word' id='word_1_4' title='bbox 13 4999 15 5001; x_wconf 70' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 26 5023 49 5042; x_wconf 70' lang='lat'>1:</span> <span class='ocrx_word' id='word_1_6' title='bbox 56 4995 270 5067; x_wconf 51' lang='lat' dir='ltr'>argentissemsaefinz</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1 5066 271 5137; baseline 0 -20"><span class='ocrx_word' id='word_1_7' title='bbox 1 5066 271 5137; x_wconf 54' lang='lat' dir='ltr'>&#39;piendafitsatiseAliaffea</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 0 5136 271 5203; baseline 0 -18"><span class='ocrx_word' id='word_1_8' title='bbox 0 5136 180 5203; x_wconf 53' lang='lat' dir='ltr'>elibramgofacei</span> <span class='ocrx_word' id='word_1_9' title='bbox 189 5140 271 5187; x_wconf 79' lang='lat' dir='ltr'>&amp;acris</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 8 5204 272 5277; baseline 0 -22"><span class='ocrx_word' id='word_1_10' title='bbox 8 5204 272 5277; x_wconf 67' lang='lat' dir='ltr'>&#39;ra,cerusae,r0sacei,pa3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1850 5325">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1850 5325">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1850 5325; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1850 5325; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
